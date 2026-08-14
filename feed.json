@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PeoplesCensusWatch",
+    "description": "",
+    "home_page_url": "https://www.peoplescensuswatch.info",
+    "feed_url": "https://www.peoplescensuswatch.info/feed.json",
+    "user_comment": "",
+    "icon": "https://www.peoplescensuswatch.info/media/website/Logo.jpg",
+    "author": {
+        "name": "PCW"
+    },
+    "items": [
+    ]
+}
